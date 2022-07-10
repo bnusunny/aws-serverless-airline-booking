@@ -7,7 +7,7 @@
     }
   },
   "auth": {
-    "awsserverlessairlineb7722ff6": {
+    "awsserverlessairline2d5502f5": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],

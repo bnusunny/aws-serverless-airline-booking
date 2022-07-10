@@ -22,5 +22,29 @@
         "awsserverlessairlineb7722ff6": {}
       }
     }
+  },
+  "workshop": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsserverlessairline-workshop-65931-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373534280245:role/amplify-awsserverlessairline-workshop-65931-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373534280245:role/amplify-awsserverlessairline-workshop-65931-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-awsserverlessairline-workshop-65931-deployment",
+      "UnauthRoleName": "amplify-awsserverlessairline-workshop-65931-unauthRole",
+      "StackName": "amplify-awsserverlessairline-workshop-65931",
+      "StackId": "arn:aws:cloudformation:us-west-2:373534280245:stack/amplify-awsserverlessairline-workshop-65931/d9c03f60-001d-11ed-b41e-0259c3834b69",
+      "AmplifyAppId": "drjzvjo8va1ro"
+    },
+    "categories": {
+      "auth": {
+        "awsserverlessairline2d5502f5": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "drjzvjo8va1ro",
+          "type": "manual"
+        }
+      }
+    }
   }
 }
